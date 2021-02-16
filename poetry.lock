@@ -70,7 +70,7 @@ version = "1.2.1"
 
 [metadata]
 content-hash = "75efac555c843631b93490185c4be0689f814df548395ed1ba61d610c5f9b0ff"
-python-versions = "^3.8"
+python-versions = "^3.9"
 
 [metadata.files]
 pyaes = [
